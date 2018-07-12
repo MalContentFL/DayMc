@@ -9,3 +9,4 @@ saves
 *.log
 .curseclient
 .ReAuth.cfg
+minecraftinstance.json
