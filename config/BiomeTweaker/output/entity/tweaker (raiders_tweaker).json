@@ -1,0 +1,6 @@
+
+{
+  "Name": "tweaker",
+  "Registry ID": "raiders:tweaker",
+  "Class": "com.gendeathrow.pmobs.entity.mob.EntityTweaker"
+}

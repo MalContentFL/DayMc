@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Leather Armor Set",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:leather_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 20
+  },
+  {
+    "name": "Iron Armor Set",
+    "head": {
+      "itemID": "minecraft:iron_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:iron_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:iron_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:iron_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 20
+  },
+  {
+    "name": "Gold Armor Set",
+    "head": {
+      "itemID": "minecraft:golden_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:golden_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:golden_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:golden_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Diamond Armor Set",
+    "head": {
+      "itemID": "minecraft:diamond_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:diamond_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:diamond_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:diamond_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Chain Mail Armor Set",
+    "head": {
+      "itemID": "minecraft:chainmail_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:chainmail_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:chainmail_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:chainmail_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  }
+]

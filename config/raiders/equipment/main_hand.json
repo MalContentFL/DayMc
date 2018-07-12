@@ -1,0 +1,22 @@
+[
+  {
+    "itemID": "minecraft:wooden_sword",
+    "metaID": 0,
+    "weight": 20
+  },
+  {
+    "itemID": "minecraft:iron_sword",
+    "metaID": 0,
+    "weight": 20
+  },
+  {
+    "itemID": "minecraft:golden_sword",
+    "metaID": 0,
+    "weight": 10
+  },
+  {
+    "itemID": "minecraft:diamond_sword",
+    "metaID": 0,
+    "weight": 10
+  }
+]

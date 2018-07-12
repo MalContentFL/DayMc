@@ -1,0 +1,46 @@
+[
+  {
+    "CustomName": "Slowness",
+    "weight": 5,
+    "TippedArrowsPotions": [
+      {
+        "potionID": "minecraft:slowness",
+        "ticks": 60
+      }
+    ]
+  },
+  {
+    "CustomName": "Harmful",
+    "weight": 10,
+    "TippedArrowsPotions": [
+      {
+        "potionID": "minecraft:instant_damage",
+        "ticks": 20
+      }
+    ]
+  },
+  {
+    "CustomName": "Poisonous",
+    "weight": 10,
+    "TippedArrowsPotions": [
+      {
+        "potionID": "minecraft:weakness",
+        "ticks": 60
+      },
+      {
+        "potionID": "minecraft:poison",
+        "ticks": 30
+      }
+    ]
+  },
+  {
+    "CustomName": "Weakness",
+    "weight": 25,
+    "TippedArrowsPotions": [
+      {
+        "potionID": "weakness",
+        "ticks": 40
+      }
+    ]
+  }
+]

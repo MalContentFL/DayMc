@@ -1,0 +1,26 @@
+{
+  "blockLoot": [
+    {
+      "blockID": "littlelooter:air_drop",
+      "tables": [
+        "littlelooter:orbital_drop"
+      ]
+    }
+  ],
+  "lootTables": [
+    {
+      "name": "littlelooter:orbital_drop",
+      "minItems": 1,
+      "maxItems": 10,
+      "entries": [
+        {
+          "id": "minecraft:diamond",
+          "minStack": 1,
+          "maxStack": 8,
+          "meta": 0,
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

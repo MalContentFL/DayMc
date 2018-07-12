@@ -1,0 +1,27 @@
+[
+  {
+    "itemID": "minecraft:feather",
+    "metaID": 0,
+    "weight": 20
+  },
+  {
+    "itemID": "minecraft:map",
+    "metaID": 0,
+    "weight": 20
+  },
+  {
+    "itemID": "minecraft:stick",
+    "metaID": 0,
+    "nbt": {
+      "display": {
+        "Name": "Big Stick"
+      }
+    },
+    "weight": 10
+  },
+  {
+    "itemID": "minecraft:skull",
+    "metaID": 0,
+    "weight": 10
+  }
+]

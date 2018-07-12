@@ -1,0 +1,153 @@
+{
+  "_exampleRaider": {
+    "weight": "True Weight System, So you can tweak which skins you want to see more.",
+    "enabled": "After you get your Twitch list, you may have broken skins because ppl have changed names. So you can disable them here.",
+    "customSkin": "Give resourcelocation of custom skin. Use raiders build in resource loading, by adding a file into \u0027assets/skins/\u003cfilename\u003e.png\u0027, than set custom skin to \u0027raiders:skins/\u003cfilename\u003e\u0027. You may also use any other resourceloader.",
+    "_comment": " Comment section is for you leave a comment if you disabled something to know why. or just any comment you want."
+  },
+  "Gen_Deathrow": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "EvilSeph": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "darkphan": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "ganymedes01": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "jeb_": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "DatFailGamur": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Kashdeya": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Gooderness": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "carnalizer": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "tfox83": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Jsl7": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "SlothMonster_": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Darkosto": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Bacon_Donut": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "slowpoke101": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "SinfulDeity": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "GWSheridan": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "LexManos": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "iChun": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "TheMattaBase": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Technicalkaos": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Notch": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "C418": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "cpw11": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Turkey2349": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Mondad": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "direwolf20": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Funwayguy": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Vash505": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  }
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "ranger",
+  "Registry ID": "raiders:ranger",
+  "Class": "com.gendeathrow.pmobs.entity.mob.EntityRanger"
+}
