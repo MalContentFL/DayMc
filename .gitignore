@@ -7,7 +7,5 @@ logs
 raidersWhitelist
 saves
 *.log
-*.json
-*.txt
 .curseclient
 .ReAuth.cfg
