@@ -29,7 +29,7 @@ fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -85,6 +85,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -97,8 +98,6 @@ key_quark.emote.shrug:0
 key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
-key_quark.keybind.lockBuilding:37
-key_quark.keybind.toggleAutojump:48
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -107,6 +106,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:37
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
 key_Scene3 start/pause:81
@@ -117,6 +117,8 @@ key_key.ftbutilities.nbt:49:ALT
 key_key.ironbackpacks.equip:35
 key_key.ironbackpacks.open:23
 key_key.horn:35
+key_bbw.key.mode:50
+key_bbw.key.fluidmode:33
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
 key_mod.chiselsandbits.chiselmode.snap4:0
@@ -153,6 +155,7 @@ key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.hudtoggle:35
+key_Dynamic Lights toggle:38
 key_key.openhealthbox:41
 key_key.usehealthkit:46
 key_key.immersiveengineering.magnetEquip:31
@@ -168,6 +171,7 @@ key_key.nightVision:49
 key_key.add:23
 key_key.subtract:24
 key_key.fire_mode:54
+key_WorldEdit Reference:38
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
@@ -184,7 +188,7 @@ key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 soundCategory_master:1.0
-soundCategory_music:0.42957747
+soundCategory_music:0.049295776
 soundCategory_record:1.0
 soundCategory_weather:0.42957747
 soundCategory_block:1.0
