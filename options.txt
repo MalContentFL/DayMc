@@ -9,7 +9,7 @@ guiScale:0
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:145
 fboEnable:true
 difficulty:2
 fancyGraphics:true
@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:true
-enableVsync:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:true
@@ -49,10 +49,10 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
-key_key.attack:15
+key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
 key_key.left:30
@@ -94,8 +94,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -108,6 +106,8 @@ key_quark.emote.shrug:0
 key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_key.betterfoliage.gui:66
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
