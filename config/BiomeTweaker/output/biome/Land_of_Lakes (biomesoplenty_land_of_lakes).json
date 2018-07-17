@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "DENSE",
     "SWAMP",
+    "DENSE",
+    "FOREST",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -207,12 +207,6 @@
       {
         "ID": "waterside",
         "Name": "mud"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

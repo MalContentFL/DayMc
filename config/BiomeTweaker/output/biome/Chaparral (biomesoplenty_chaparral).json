@@ -190,12 +190,6 @@
         "ID": "waterside",
         "Name": "sand"
       }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
-      }
     ]
   },
   "BOP Owner": "BIOMESOPLENTY",

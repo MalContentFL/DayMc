@@ -22,9 +22,9 @@
   "Dictionary Types": [
     "HOT",
     "SPARSE",
-    "SANDY",
     "SAVANNA",
-    "DRY"
+    "DRY",
+    "SANDY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -138,10 +138,6 @@
         "Name": "dead_bushes"
       },
       {
-        "ID": "columns",
-        "Name": "cacti"
-      },
-      {
         "ID": "flora",
         "Name": "roots"
       }
@@ -164,12 +160,6 @@
       {
         "ID": "ore_single",
         "Name": "ruby"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

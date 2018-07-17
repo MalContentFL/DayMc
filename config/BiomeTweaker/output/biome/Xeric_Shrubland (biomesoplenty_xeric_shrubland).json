@@ -23,9 +23,9 @@
     "HOT",
     "SPARSE",
     "LUSH",
-    "SANDY",
     "SAVANNA",
-    "DRY"
+    "DRY",
+    "SANDY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -147,10 +147,6 @@
         "Name": "bromeliad"
       },
       {
-        "ID": "columns",
-        "Name": "cacti"
-      },
-      {
         "ID": "flora",
         "Name": "roots"
       }
@@ -169,12 +165,6 @@
       {
         "ID": "ore_single",
         "Name": "ruby"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

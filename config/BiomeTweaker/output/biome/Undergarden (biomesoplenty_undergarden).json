@@ -114,12 +114,6 @@
         "ID": "flora",
         "Name": "toadstools"
       }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
-      }
     ]
   },
   "BOP Owner": "BIOMESOPLENTY",

@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MUSHROOM",
     "HOT",
     "DENSE",
+    "MUSHROOM",
     "NETHER"
   ],
   "BiomeManager Entries": {},
@@ -74,16 +74,6 @@
       {
         "ID": "hive",
         "Name": "hive"
-      }
-    ],
-    "BIG_SHROOM Generators": [
-      {
-        "ID": "big_mushrooms",
-        "Name": "big_brown_mushroom"
-      },
-      {
-        "ID": "big_mushrooms",
-        "Name": "big_red_mushroom"
       }
     ],
     "SHROOM Generators": [

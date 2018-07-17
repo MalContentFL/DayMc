@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPARSE",
-    "FOREST",
-    "LUSH",
-    "PLAINS",
     "COLD",
+    "SPARSE",
+    "PLAINS",
+    "LUSH",
+    "FOREST",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -213,12 +213,6 @@
       {
         "ID": "waterside",
         "Name": "sand"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

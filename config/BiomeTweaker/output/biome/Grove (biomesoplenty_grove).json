@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "SPARSE",
-    "FOREST",
-    "LUSH",
     "PLAINS",
+    "LUSH",
+    "FOREST",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -180,12 +180,6 @@
       {
         "ID": "ore_single",
         "Name": "amber"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

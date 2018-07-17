@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPOOKY",
+    "COLD",
     "SPARSE",
     "SWAMP",
-    "DEAD",
-    "COLD",
-    "WET"
+    "WET",
+    "SPOOKY",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -179,12 +179,6 @@
       {
         "ID": "splotches",
         "Name": "mud_patches"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

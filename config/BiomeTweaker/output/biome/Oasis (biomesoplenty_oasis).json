@@ -23,9 +23,9 @@
     "HOT",
     "SPARSE",
     "LUSH",
+    "WET",
     "SANDY",
-    "JUNGLE",
-    "WET"
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -149,10 +149,6 @@
         "Name": "bromeliad"
       },
       {
-        "ID": "columns",
-        "Name": "cacti"
-      },
-      {
         "ID": "flora",
         "Name": "sprouts"
       }
@@ -181,12 +177,6 @@
       {
         "ID": "waterside",
         "Name": "oases"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

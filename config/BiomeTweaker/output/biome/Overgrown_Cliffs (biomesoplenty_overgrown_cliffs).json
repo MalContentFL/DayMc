@@ -23,9 +23,9 @@
     "HILLS",
     "LUSH",
     "DENSE",
+    "WET",
     "MOUNTAIN",
-    "JUNGLE",
-    "WET"
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -171,12 +171,6 @@
       {
         "ID": "ore_single",
         "Name": "emeralds"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

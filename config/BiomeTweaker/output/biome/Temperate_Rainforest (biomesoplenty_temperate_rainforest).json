@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
     "LUSH",
     "DENSE",
+    "FOREST",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -249,12 +249,6 @@
       {
         "ID": "flora",
         "Name": "toadstools"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

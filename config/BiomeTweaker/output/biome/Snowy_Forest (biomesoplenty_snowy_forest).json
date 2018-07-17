@@ -20,9 +20,9 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
+    "COLD",
     "SPARSE",
     "FOREST",
-    "COLD",
     "SNOWY",
     "WET"
   ],
@@ -168,12 +168,6 @@
       {
         "ID": "ore_single",
         "Name": "tanzanite"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

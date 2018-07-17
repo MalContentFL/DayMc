@@ -179,12 +179,6 @@
         "ID": "weighted",
         "Name": "grass"
       }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
-      }
     ]
   },
   "BOP Owner": "OTHER",

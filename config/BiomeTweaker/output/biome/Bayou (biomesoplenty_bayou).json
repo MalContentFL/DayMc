@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "HOT",
-    "DENSE",
     "SWAMP",
+    "DENSE",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -225,12 +225,6 @@
       {
         "ID": "flora",
         "Name": "flat_mushroom"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

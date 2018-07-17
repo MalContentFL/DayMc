@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
     "DENSE",
-    "JUNGLE",
-    "WET"
+    "FOREST",
+    "WET",
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -187,12 +187,6 @@
       {
         "ID": "ore_single",
         "Name": "topaz"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

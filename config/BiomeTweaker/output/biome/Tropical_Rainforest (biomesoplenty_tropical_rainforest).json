@@ -23,8 +23,8 @@
     "HOT",
     "LUSH",
     "DENSE",
-    "JUNGLE",
-    "WET"
+    "WET",
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -224,12 +224,6 @@
       {
         "ID": "flora",
         "Name": "red_mushrooms"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

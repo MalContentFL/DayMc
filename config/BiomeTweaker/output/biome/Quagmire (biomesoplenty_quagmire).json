@@ -22,8 +22,8 @@
   "Dictionary Types": [
     "WASTELAND",
     "SWAMP",
-    "DEAD",
-    "WET"
+    "WET",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],

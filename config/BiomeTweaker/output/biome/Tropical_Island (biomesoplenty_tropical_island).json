@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "WATER",
     "LUSH",
     "DENSE",
-    "WATER",
-    "JUNGLE",
-    "WET"
+    "WET",
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -91,12 +91,6 @@
       {
         "ID": "waterside",
         "Name": "sand"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },

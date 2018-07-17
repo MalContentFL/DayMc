@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "FOREST",
-    "DENSE",
-    "CONIFEROUS",
     "COLD",
+    "CONIFEROUS",
+    "DENSE",
+    "FOREST",
     "SNOWY"
   ],
   "BiomeManager Entries": {},
@@ -184,12 +184,6 @@
       {
         "ID": "flora",
         "Name": "red_mushrooms"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },
