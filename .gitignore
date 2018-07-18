@@ -9,5 +9,9 @@ saves
 *.log
 .curseclient
 .ReAuth.cfg
+.minecraftinstance.json
+.options.txt
+.usercache.json
+.username.cache.json
 minecraftinstance.json
-minecraftinstance.json
+usercache.json
