@@ -94,6 +94,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -107,7 +108,6 @@ key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
 key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_key.betterfoliage.gui:66
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
@@ -159,8 +159,6 @@ key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
 key_key.hudtoggle:35
 key_Dynamic Lights toggle:38
-key_key.openhealthbox:41
-key_key.usehealthkit:46
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_keywizard.keybind.openKeyboardWizard:65
