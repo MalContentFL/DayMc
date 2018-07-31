@@ -36,9 +36,14 @@ for (i = 0; i < tools.length; i++) {
 # TODO: Move scrap metals here
 
 # Mold for bullet casings in metal press
-bulletCasing = mods.contenttweaker.VanillaFactory.createItem("press_bullet_casing")
+bulletCasingMold = mods.contenttweaker.VanillaFactory.createItem("press_bullet_casing")
   .maxStackSize = 1
   .creativeTab = <daymc>
-  .itemName = "Bullet Casing Press"
+  .itemName = "Bullet Casing Mold"
   .register();
-
+  
+  
+bulletCasing = mods.contenttweaker.VanillaFactory.createItem("press_bullet_casing")
+  .creativeTab = <daymc>
+  .itemName = "Bullet Casing"
+  .register();
