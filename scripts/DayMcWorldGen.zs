@@ -4,17 +4,19 @@
   TODO: Make sure this script runs after the new stone blocks are added.
 */
 
+import mods.worldtweaker.*;
+
 /*
   Define layers of the world using the new stone blocks. They are defined in TODO.zs
   More info here: https://github.com/superckl/BiomeTweaker/wiki/On-the-Topic-of-Block-Replacement#advanced-block-replacements
 */
 
 # Andesite Replacement
-andesiteReplacement = newBlockReplacement()
-andesite = forBlock("minecraft:stone")
-andesite.setProperty("variant", "andesite")
-andesiteReplacement.set("block", andesite)
-andesiteReplacement.set("minY", 59)
+andesiteReplacement = newBlockReplacement();
+andesite = forBlock("minecraft:stone");
+andesite.setProperty("variant", "andesite");
+andesiteReplacement.set("block", andesite);
+andesiteReplacement.set("minY", 59);
 
 # Limestone Replacement
 limestoneReplacement = newBlockReplacement();
