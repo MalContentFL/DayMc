@@ -34,3 +34,8 @@ for (i = 0; i < tools.length; i++) {
 
 # New Items
 # TODO: Move scrap metals here
+
+var ingotBrass = VanillaFactory.createItem("zs_item");
+# TODO: Make sure creative tab is correct
+ingotBrass.creativeTab = <daymc>;
+ingotBrass.register();
