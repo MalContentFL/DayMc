@@ -9,29 +9,37 @@
   More info here: https://github.com/superckl/BiomeTweaker/wiki/On-the-Topic-of-Block-Replacement#advanced-block-replacements
 */
 
-# Shale Replacement
-shaleReplacement = newBlockReplacement();
-shale = forBlock("contenttweaker:shale");
-shaleReplacement.set("block", shale);
-shaleReplacement.set("minY", 40)
+# Andesite Replacement
+andesiteReplacement = newBlockReplacement()
+andesite = forBlock("minecraft:stone")
+andesite.setProperty("variant", "andesite")
+andesiteReplacement.set("block", andesite)
+andesiteReplacement.set("minY", 59)
+
+# Limestone Replacement
+limestoneReplacement = newBlockReplacement();
+limestone = forBlock("chisel:limestone");
+limestoneReplacement.set("block", limestone);
+limestoneReplacement.set("minY", 40)
   .set("maxY", 58);
 
-# Slate Replacement
-slateReplacement = newBlockReplacement();
-slate = forBlock("contenttweaker:slate");
-slateReplacement.set("block", slate);
-slateReplacement.set("minY", 19)
-  .set("maxY", 27);
+# Brownstone Replacement
+brownstoneReplacement = newBlockReplacement();
+brownstone = forBlock("chisel:brownstone");
+brownstoneReplacement.set("block", brownstone);
+brownstoneReplacement.set("minY", 28)
+  .set("maxY", 57);
   
-# Gabbro Replacement
-gabbroReplacement = newBlockReplacement();
-gabbro = forBlock("contenttweaker:gabbro");
-gabbroReplacement.set("block", gabbro);
-gabbroReplacement.set("minY", 2)
+# Basalt Replacement
+basaltReplacement = newBlockReplacement();
+basalt = forBlock("chisel:basalt");
+basaltReplacement.set("block", basalt);
+basaltReplacement.set("minY", 2)
   .set("maxY", 18);
 
 # Register replacements to worldgen for all biomes
 forAllBiomes()
-   .registerGenBlockRep("minecraft:stone", shaleReplacement)
-  .registerGenBlockRep("minecraft:stone", slateReplacement)
-  .registerGenBlockRep("minecraft:stone", gabbroReplacement);
+  .registerGenBlockRep("minecraft:stone", andesiteReplacement)
+  .registerGenBlockRep("minecraft:stone", limestoneReplacement)
+  .registerGenBlockRep("minecraft:stone", brownstoneReplacement)
+  .registerGenBlockRep("minecraft:stone", basaltReplacement);
