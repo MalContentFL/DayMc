@@ -22,10 +22,10 @@
   "Dictionary Types": [
     "HILLS",
     "FOREST",
+    "THEMED_TREES",
     "RARE",
-    "DENSE",
     "MEGA_TAIGA_SPRUCE_TREES",
-    "THEMED_TREES"
+    "DENSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],

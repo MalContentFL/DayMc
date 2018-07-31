@@ -192,7 +192,7 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:1.0
+soundCategory_master:0.029801324
 soundCategory_music:0.049295776
 soundCategory_record:1.0
 soundCategory_weather:0.42957747
