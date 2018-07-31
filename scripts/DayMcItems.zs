@@ -1,10 +1,13 @@
 /*
-  All item related code goes here
+  All item related code goes here.
+  TODO: Load this script after creating DayMc creative tab, along w/ DayMcBlocks
   Such as tweaking tool mining levels.
   Recipes do not go here! They go in DayMcRecipes
 */
 
 import crafttweaker.item.*;
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Item;
 
 # Arrays of tools for each tier
 var t0Tools = [<minecraft:wooden_pickaxe>, <minecraft:stone_pickaxe>,
@@ -28,3 +31,14 @@ for (i = 0; i < tools.length; i++) {
     tier[c].harvestLevel = i;
   }
 }
+
+# New Items
+# TODO: Move scrap metals here
+
+# Mold for bullet casings in metal press
+bulletCasing = mods.contenttweaker.VanillaFactory.createItem("press_bullet_casing")
+  .maxStackSize = 1
+  .creativeTab = <daymc>
+  .itemName = "Bullet Casing Press"
+  .register();
+
